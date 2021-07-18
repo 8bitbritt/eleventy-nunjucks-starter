@@ -5,4 +5,4 @@ Building a website using Eleventy and Nunjucks
 2. cd your folder
 3. npm install
 4. npm start
-5. when finished: npm run build
+5. when finished: command c + npm run build
